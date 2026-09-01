@@ -1,0 +1,201 @@
+Name	Fold Change
+PS(22:0/0:0)	0.68646
+"PE(18:4(6Z,9Z,12Z,15Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z))"	0.78952
+Pterolactam	0.52441
+DL-2-hydroxy stearic acid	2.0804
+2-(3-Phenylpropyl)pyridine	0.19418
+"PE(18:4(6Z,9Z,12Z,15Z)/0:0)"	0.55428
+"Estra-1,3,5(10)-triene-3,6alpha,17beta-triol triacetate"	0.34872
+Tyr Ser Lys	1.8082
+Val Val Pro Gly	0.75287
+Trp Gln Leu Leu	0.62411
+2-glyceryl-6-keto-PGF1¦Á	0.5252
+Arg Arg Met His	1.9002
+Ile Pro Pro Glu	0.78231
+"(1S,Z)-3-((2R,E)-6-Hydroxy-2,5-dimethylnon-4-en-1-ylidene)-1-methyloctahydro-2H-quinolizin-1-ol"	0.20742
+Ile Pro Thr Asn	0.5252
+¦Å-Rhodomycinone	0.029796
+Ala Leu Tyr Leu	0.5252
+4-Dimethylamino-L-phenylalanine	0.22121
+PI(15:0/16:1(9Z))	0.5252
+"N1,N8-Diacetylspermidine"	0.2164
+Thr Pro Met Leu	0.33412
+Pro Glu Val	1.9413
+Glycobismine A	0.30585
+(+/-)-alpha-Hydroxyisovaleric acid	0.32594
+Leu Ser Gln Val	0.78805
+Furmecyclox	1.5964
+Phe Gln Arg Arg	0.50701
+Asp Lys Leu Gly Glu	0.22275
+Phe Arg Val Tyr	0.65066
+Capsi-amide	0.18982
+L-Sorbose	0.26637
+Navenone A	0.24667
+Asp Phe Pro Leu	0.31089
+N-Hydroxy-1-aminonaphthalene	0.11705
+Arg Arg Asn His	1.4249
+meta-Cresidine	0.22509
+Lys Ile Asp	0.16326
+1-Stearoyl-2-Arachidonoyl PC	1.2249
+FTY720	0.13962
+"Anandamide (18:3, n-6)"	0.2032
+Ile Met Asn Ser Phe	0.18073
+His Ile Gln	2.0637
+Lys Leu Lys His	1.8472
+Ala Glu Glu Pro	1.874
+"PG(20:5(5Z,8Z,11Z,14Z,17Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z))"	2.5164
+trifluoroacetic acid	8.0649
+Asp Ile Pro Pro	0.21187
+Gln Pro Pro	1.2174
+Cys Phe His Arg	0.5252
+Trp Arg Gln Glu	0.25847
+N-Acetylserine	0.78642
+Lys Phe Arg Ala	0.73516
+Isotretinoin	0.22146
+Pro Gln Pro	0.31238
+Asn Pro Leu Val	0.56533
+Glu Glu Ser Ile	1.3739
+N-(2-phenoxy-ethyl) arachidonoyl amine	0.18608
+"1¦Á,25-dihydroxy-24a,24b,24c-trihomovitamin D3 / 1¦Á,25-dihydroxy-24a,24b,24c-trihomocholecalciferol"	1.9263
+Leu Tyr Arg Met	0.29285
+Ala Phe Arg Arg	0.5252
+1-Formylneogrifolin	0.60372
+Trp Arg Gln Ala	0.031433
+(S)-Neolyratyl acetate	1.2684
+L-Glutamic acid n-butyl ester	0.20162
+Glu Ile Pro Gln	1.418
+Val Thr Thr	0.5252
+Tyr Ile Glu Thr	0.5252
+"(7R,8R,E)-6-((R,4E,6E)-2,5-Dimethylocta-4,6-dien-1-ylidene)-8-methyloctahydroindolizine-7,8-diol"	0.16135
+His His Pro	0.23484
+Asp Val Val	0.5252
+"(2R,3S,4R,7S,10S)-4-Ethyl-2,3,7,10-tetramethyldodecahydrocyclopenta[b]quinolizin-2-ol"	0.36406
+5-Formiminotetrahydrofolic acid	0.29334
+Leukotriene C4-d5	0.19055
+Trp Phe Phe Phe	0.2196
+Phenylalanyl-Asparagine	0.16014
+Merodesmosine	1.537
+Simulansamide	0.5252
+Pro Gly Pro	0.19902
+Val Asn Tyr Ser	0.66955
+9(R)-HODE	0.5252
+"(4R)-4-Methyl-5-((Z)-1,2,3,8a-tetrahydroindolizin-6(5H)-ylidene)pentan-2-ol"	0.12992
+Pro Tyr	0.056436
+Glu Ala Asn Lys Glu	0.5252
+Lys Met Gln Tyr	0.30325
+14E-Octadecenal	0.2222
+N-Acetyl-D-mannosaminolactone	0.1898
+Asp Pro Asn Gly Leu	0.22454
+Trp Arg Arg Gln	0.83304
+Aprobarbital	0.5252
+"3b,6b-Diangeloyloxy-7(11)-eremophilen-12,8b-olide"	0.5252
+Gly Phe Val Asp	0.2146
+Phenylalanyl-Histidine	0.30507
+Epothilone B	6.8202
+UCM707	0.089965
+N-Valerylglycine methyl ester	0.13843
+Gly Tyr	0.5252
+Ile Glu Val His Gly	0.20474
+5alpha-Androstane-2alpha-fluoro-17beta-ol-3-one acetate	0.18224
+"cis-9,10-Epoxy-1,3Z,6Z-eicosatriene"	0.21227
+Obliquine	0.28539
+"2,3-Dihydroxy-3-methylvaleric acid"	0.4358
+"1,1'-(Tetrahydro-6a-hydroxy-2,3a,5-trimethylfuro[2,3-d]-1,3-dioxole-2,5-diyl)bis-ethanone"	0.22175
+Glu His Arg	0.5252
+(R)-3-((R)-3-Hydroxybutanoyloxy)butanoate	1.7495
+Di-2-furanylmethane	4.4335
+Dihydroconiferin	0.5252
+"Galb1-3[Neu5Aca2,6]GalNAca-Thr"	0.46463
+"9(E),11(E)-Conjugated Linoleic Acid"	24.946
+Ile Asp Asp Ala	0.30283
+"3,7,8,15-Scirpenetetrol"	0.5252
+Arg Arg Met Met	0.16267
+N-Hydroxy-L-tryptophan	0.15149
+L-gamma-Glutamyl-beta-phenyl-beta-L-alanine	0.29397
+Tetrocarcin A	3.2208
+9-HOME(10E)	2.3753
+Thr Glu Leu	0.5252
+Eicosapentaenoic Acid methyl ester	0.5252
+Taxinine M	1.5364
+GalNAcbeta1-4(NeuAcalpha2-3)Galbeta1-3GalNAcbeta1-4(NeuAcalpha2-3)Galbeta1-4Glcbeta-Cer(d18:1/26:1(17Z))	0.65179
+Phenylethylamine	0.37847
+cis-Fenpropimorph	0.5252
+14-fluoro-myristic acid	0.5252
+"3Z,6Z,9Z,12Z,15Z-Octadecapentaenoic acid"	0.5252
+"2,3-dihydro-1,4-benzodioxin-2-ylmethyl dimethylcarbamate"	0.21205
+"2-Dimethylamino-5,6-dimethylpyrimidin-4-ol"	0.5252
+N-(2'-(4-benzenesulfonamide)-ethyl) arachidonoyl amine	0.5252
+Dimethindene	0.5252
+Palmityl Trifluoromethyl Ketone	17.148
+2-Ethyl-5-methylpyridine	1.2534
+Methotrimeprazine	0.31018
+"3-Methyl-2,5-furandione"	0.47522
+"Glucosyl (2E,6E,10x)-10,11-dihydroxy-2,6-farnesadienoate"	1.7645
+Tropic acid	0.5252
+"N,O-Didesmethylvenlafaxine"	0.5252
+Cysteine Dimer	0.31246
+His Thr Arg	0.5252
+Ile Trp Tyr Tyr	0.5252
+Lys His Trp	0.5252
+Progesterone	0.5252
+"6, 8-Octadecadienoic acid"	18.256
+Arachidonyl Trifluoromethyl Ketone	0.25277
+"1,5-Naphthalenediamine"	0.29536
+"1-O-alpha-D-glucopyranosyl-1,2-eicosandiol"	2.078
+8-HpODE	0.23746
+Arg Lys His Ala	0.2856
+Triterpenoid	2.2733
+UCL 1608	0.5252
+2-Aminohexadecanoic acid	37.565
+gamma-Eudesmol rhamnoside	0.5252
+"(4'R,6R,6'S,7S,8R)-6'-(2-Hydroxypentan-2-yl)-4',8-dimethyldecahydro-5H-spiro[indolizine-6,2'-pyran]-7,8-diol"	0.5252
+"(3R,8E)-3-Hydroxy-5,8-megastigmadien-7-one"	4.0418
+"(Z)-3,7-Dimethyl-2,7-octadienyl propionate"	5.1244
+Diethyltoluamide	1.5482
+Thyrotropin releasing hormone	0.28416
+Ser Phe Asp Lys Ser	0.30853
+12(13)-EpOME	7.6387
+(¡À)9-HpODE	1.4211
+Prolyl-2-naphthylamide	0.5252
+Dimethylmaleic acid anhydride	0.2958
+9Z-Hexacosene	0.66654
+Sebacic acid	0.5252
+"(3xi,6xi)-Cyclo(alanylvalyl)"	0.30418
+Tumonoic Acid D	0.33792
+Arginyl-Arginine	0.75562
+Apigenin 7-methyl ether 4'-glucoside	0.5252
+Thr Arg Tyr Thr	0.5252
+PG(12:0/0:0)	0.26578
+"3,4-Dimethyl-5-pentyl-2-furanheptanoic acid"	9.6443
+Phe Trp Met	2.0714
+"(E,E,E)-Sylvatine"	0.5252
+S-Methyl-5-thio-D-ribose 1-phosphate	1.4099
+(-)-trans-C75	0.5252
+D-Tryptophan	0.72303
+(S)-(-)-2-Hydroxyisocaproic acid	0.25651
+Phe Lys Glu Ala Phe	1.3053
+His Ser Glu Arg Arg	0.2823
+L-¦Á-Hydroxyisovaleric acid	0.43904
+Pyroglutamic acid	9.4493
+Trospium	0.73694
+Gly Val Ile Asn	0.7014
+"cis-9,10-Epoxystearic acid"	3.5562
+Val Val Asp	1.276
+Methyl nicotinate	1.8147
+Asn Asn Ala Gly Gly	0.27094
+Ala Val Thr Pro	0.48656
+Cys Ile Asp Asp	0.27068
+Butyl dodecanoate	2.2825
+D-(+)-3-Phenyllactic acid	0.28435
+Succinoadenosine	0.28023
+Trp Arg Met His	0.18359
+Ganglioside GM2 (d18:0/25:0)	0.27895
+PI(18:0/20:1(11Z))	0.35271
+Thermozeaxanthin-17/ Zeaxanthin glucoside ester	0.797
+Porphobilinogen	0.29339
+Coccinin	0.19701
+Ala Gln Met Leu	0.27867
+2-Cyclotetradecen-1-one	357.78
+3-Ethyltridecan-2-one	0.2838
+"DAT(18:0/23:0(2Me[S],3OH[S],4Me[S],6Me[S]))"	0.50164
+2-Methylcitrate	44.499

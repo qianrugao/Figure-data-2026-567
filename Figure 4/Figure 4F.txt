@@ -1,0 +1,6 @@
+	Total	Expected	Hits	Raw p	#NAME?	Holm adjust	FDR	Impact
+Glutathione metabolism	22	0.091973	1	0.088794	1.0516	1	1	0
+"Valine, leucine and isoleucine biosynthesis"	22	0.091973	1	0.088794	1.0516	1	1	0.04052
+Fructose and mannose metabolism	27	0.11288	1	0.10807	0.96631	1	1	0
+Phenylalanine metabolism	36	0.1505	1	0.14193	0.84792	1	1	0
+Porphyrin metabolism	55	0.22993	1	0.21006	0.67767	1	1	0.01896
