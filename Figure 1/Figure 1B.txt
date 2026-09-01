@@ -1,0 +1,46 @@
+Species	beta_coef
+Acetivibrio ethanolgignens	0.06
+Acidaminococcus fermentans	0.05
+Anaerotruncus sp. G3(20I2)	0.02
+Bifidobacterium animalis	0.1
+Blautia_schinkii	0.02
+Butyrivibrio_crossotus	0.12
+Cellulomonas_carbonis	0.12
+Enterococcus_gilvus	0.08
+Enterococcus_durans	0.06
+Enterococcus_faecium	0.09
+Enterococcus_cecorum	0.08
+Faecalibacterium_prausnitzii	0.05
+Saccharolyticum	0.03
+Marvinbryantia  formatexigens	0.04
+Paraprevotella  xylaniphila	0.07
+Prevotella   bryantii	0.17
+Prevotella  sp.  P4-76	0.1
+Prevotella  sp.  S7-1-8	0.14
+Prevotella   albensis	0.12
+Prevotella   bergensis	0.12
+Prevotella   oulorum	0.1
+Prevotella   multiformis	0.1
+Prevotella   multisaccharivorax	0.1
+Prevotella  copri	0.11
+Prevotella  sp.  S7  MS  2	0.07
+Prevotella  stercorea	0.07
+Prevotella   bivia	0.07
+Prevotella   timonensis	0.06
+Prevotella   pallens	0.08
+Prevotella  sp.  AGR 2160	0.07
+Prevotella   melaninogenica	0.06
+Prevotella  sp.  HUN102	0.05
+Prevotella  corporis	0.07
+Prevotella   amnii	0.06
+Prevotella   dentalis	0.06
+Roseburia   inulinivorans	0.07
+Roseburia  hominis	0.06
+Roseburia   intestinalis	0.06
+Roseburia faecis	0.06
+Ruminococcus  callidus	0.08
+Ruminococcus  flavefaciens	0.1
+Ruminococcus  bicirculans	0.1
+Ruminococcus  champanellensis	0.09
+Ruminococcus   lactaris	0.05
+Ruminococcus  faecis	0.03

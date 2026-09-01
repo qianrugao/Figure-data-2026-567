@@ -1,0 +1,13 @@
+Species	"Abundance mean 
+in all controls"	"Abundance mean 
+in all obese patients"
+Bacteroides dorei	0.037789394	0.031578118
+Bacteroides vulgatus	0.045566852	0.038229899
+Bacteroides uniformis	0.023645909	0.016234742
+Alistipes putredinis	0.019864457	0.009835402
+Bacteroides salanitronis	0.01528094	0.01273685
+Bacteroides coprophilus	0.014344255	0.013345138
+Blautia hansenii	0.01041558	0.008622123
+Enterococcus faecium	0.007689595	0.004363917
+Prevotella disiens	0.009875759	0.00750424
+Bacteroides coprocola	0.024558335	0.02057368
